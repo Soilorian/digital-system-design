@@ -1,0 +1,30 @@
+module SRFF #(
+    S, R, clk, SET, CLR,
+    Q
+);
+
+input  wire S, R, clk, SET, CLR;
+output reg Q;
+
+always @ (posedge clk or negedge CLR or negedge SET)begin
+    if(~CLR)
+        Q <= 0;
+    else if(~SET)
+        Q <= 1;
+    else begin
+        case({s,r})
+            2'b00:
+                Q <= Q;
+            2'b01:
+                Q <= 0;
+            2'b10:
+                Q <= 1;
+            2'b11:
+                Q <= 1'bx;
+            default:
+                Q <= Q;
+        endcase
+    end
+end
+    
+endmodule

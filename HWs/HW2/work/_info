@@ -1,0 +1,104 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW1\Q2
+vbuffer_TB
+!i10b 1
+!s100 B][0>=:@cZXLQgen=NcEP2
+IU4JJKWPX1bYkM9>29S3[F3
+V^B5EIHLWRCn=??^oPLbX73
+Z1 dC:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2
+w1713963273
+8C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\buffer_TB.v
+FC:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\buffer_TB.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1713963276.067000
+!s107 C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\buffer_TB.v|
+!s90 -reportprogress|300|-work|work|C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\buffer_TB.v|
+!s101 -O0
+Z3 o-work work -O0
+nbuffer_@t@b
+vinoutPin_Dataflow
+Z4 !s100 _GY9ChN>dOKoa86;bjkC[1
+Z5 I7RYU<^nlPnP7`]LA7_8Ya0
+Z6 VWO2]NZ7g3jbI@E;];;WT62
+R1
+Z7 w1713600408
+Z8 8C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v
+Z9 FC:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v
+L0 3
+R2
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v|
+R3
+Z11 ninout@pin_@dataflow
+Z12 !s108 1713963275.911000
+Z13 !s107 C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinoutPin_gatelevel
+Z14 !s100 n2MX5ne>jEY5d1e8OoVl:1
+Z15 IZG6UVTh4ToJT58kZd4M9H2
+Z16 V:6hO;I<NS`Tj?CWGg7P3D3
+R1
+Z17 w1713602012
+Z18 8C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v
+Z19 FC:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v
+L0 3
+R2
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v|
+R3
+Z21 ninout@pin_gatelevel
+Z22 !s108 1713963275.989000
+Z23 !s107 C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinoutPin_TB
+Z24 !s100 ZzZA5[bJdO?X=JQA?f=bk2
+Z25 IKoU_R28`3OGP@EKNJf[Fn1
+Z26 Vm@DkHfbl@KIdHSH@>z[oS3
+R1
+Z27 w1713600788
+Z28 8C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v
+Z29 FC:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v
+L0 3
+R2
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v|
+R3
+Z31 ninout@pin_@t@b
+Z32 !s108 1713963275.950000
+Z33 !s107 C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtri_state_buffer
+Z34 !s100 JeLfa<a<m1XR8hN8dQoZ52
+Z35 INH]imdJndfIA3X1;?Gi`g1
+Z36 V<]jh<acBzGOnLK4EJdX@`3
+R1
+Z37 w1713963041
+Z38 8C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\tri_state_buffer.v
+Z39 FC:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\tri_state_buffer.v
+L0 1
+R2
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\tri_state_buffer.v|
+R3
+!i10b 1
+!s85 0
+Z41 !s108 1713963276.028000
+Z42 !s107 C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\tri_state_buffer.v|
+!s101 -O0

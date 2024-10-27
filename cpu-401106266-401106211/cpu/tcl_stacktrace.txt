@@ -1,0 +1,25 @@
+Wed Jun 26 2:44:10 AM Iran Standard Time 2024
+Trace back: getWindowName: Invalid window identifier: 0
+    while executing
+"error "getWindowName: Invalid window identifier: $id""
+    (procedure "::HTE::Editor::getWindowName" line 16)
+    invoked from within
+"::HTE::Editor::getWindowName $id"
+    (procedure "DesignPad::index" line 3)
+    invoked from within
+"DesignPad::index .main_pane.source.interior.cs.body.editor.cs insert"
+    ("eval" body line 1)
+    invoked from within
+"eval DesignPad::$cmd .main_pane.source.interior.cs.body.editor.cs $args"
+    (procedure ".main_pane.source.interior.cs.body.editor.cs" line 1)
+    invoked from within
+"$itk_component(editor) index insert"
+    (object "::.main_pane.source.interior.cs.body.editor" method "::vsimwidgets::Srcedit::UpdateSourceState" body line 16)
+    invoked from within
+"::.main_pane.source.interior.cs.body.editor UpdateSourceState"
+    (in namespace inscope "::vsimwidgets::Srcedit" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source.interior.cs.body.editor UpdateSourceState}"
+    (command bound to event)
+  <2: ::tkerror {getWindowName: Invalid window identifier: 0}
+  <1: ::bgerror {getWindowName: Invalid window identifier: 0}

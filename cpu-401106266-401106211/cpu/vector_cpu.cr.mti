@@ -1,0 +1,29 @@
+D:/HWs/DSD/cpu/CPU_tb.v {1 {vlog -work work D:/HWs/DSD/cpu/CPU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} D:/HWs/DSD/cpu/CPU.v {1 {vlog -work work D:/HWs/DSD/cpu/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} D:/HWs/DSD/cpu/Register_file.v {1 {vlog -work work D:/HWs/DSD/cpu/Register_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} D:/HWs/DSD/cpu/Memory_Unit.v {1 {vlog -work work D:/HWs/DSD/cpu/Memory_Unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory_Unit
+
+Top level modules:
+	Memory_Unit
+
+} {} {}}

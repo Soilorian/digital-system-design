@@ -1,0 +1,58 @@
+# Compile of Register_file.v was successful.
+# Compile of Memory_Unit.v was successful.
+# Compile of ALU.v failed with 3 errors.
+# Compile of CPU.v was successful.
+# Compile of CPU_tb.v was successful.
+# 5 compiles, 1 failed with 3 errors.
+# Compile of Register_file.v was successful.
+# Compile of Memory_Unit.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU.v was successful.
+# Compile of CPU_tb.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.CPU_tb
+# vsim -gui work.CPU_tb 
+# Start time: 23:55:35 on May 19,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.Register_file
+# Loading work.ALU
+# Loading work.Memory_Unit
+run -all
+# ** Note: $finish    : E:/term4/dsd/midterm_CPU/CPU_tb.v(18)
+#    Time: 114 ps  Iteration: 0  Instance: /CPU_tb
+# 1
+# Break in Module CPU_tb at E:/term4/dsd/midterm_CPU/CPU_tb.v line 18
+# Compile of Register_file.v was successful.
+# Compile of Memory_Unit.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU.v was successful.
+# Compile of CPU_tb.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.CPU_tb
+# End time: 00:10:46 on May 20,2024, Elapsed time: 0:15:11
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 00:10:46 on May 20,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.Register_file
+# Loading work.ALU
+# Loading work.Memory_Unit
+vsim -gui work.CPU_tb
+# End time: 00:10:55 on May 20,2024, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 1
+# vsim -gui work.CPU_tb 
+# Start time: 00:10:55 on May 20,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.Register_file
+# Loading work.ALU
+# Loading work.Memory_Unit
+run -all
+# ** Note: $finish    : E:/term4/dsd/midterm_CPU/CPU_tb.v(21)
+#    Time: 150 ps  Iteration: 0  Instance: /CPU_tb
+# 1
+# Break in Module CPU_tb at E:/term4/dsd/midterm_CPU/CPU_tb.v line 21
+# End time: 00:23:00 on May 20,2024, Elapsed time: 0:12:05
+# Errors: 0, Warnings: 1

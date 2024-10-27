@@ -1,0 +1,142 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\HWs
+vencoder_8to3
+!i10b 1
+!s100 K?>U2>;[Z9ZB:lh1f2d5W2
+Il=9Xi8b509i^H0ja1fdDh3
+V3S9FlN>e_PRJKADWSZF2G2
+Z1 dC:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW1\Q2
+w1712683910
+Z2 8D:/HWs/DSD/HW1/encoder_8to3.v
+Z3 FD:/HWs/DSD/HW1/encoder_8to3.v
+L0 1
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1712683929.143000
+!s107 D:/HWs/DSD/HW1/encoder_8to3.v|
+Z5 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/encoder_8to3.v|
+!s101 -O0
+Z6 o-work work -O0
+vjohnson_counter
+Z7 !s100 UlO@4ljDf8JVNElLTQ77Z2
+Z8 I3[:?OM8gNab@0jPm`o33W2
+Z9 V]^JW3]NbDK3l=YL0iScg@0
+Z10 dD:\HWs\DSD\HW1
+Z11 w1711761737
+Z12 8D:/HWs/DSD/HW1/johnson_counter.v
+Z13 FD:/HWs/DSD/HW1/johnson_counter.v
+L0 1
+R4
+r1
+31
+Z14 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/johnson_counter.v|
+R6
+Z15 !s108 1711761827.289000
+Z16 !s107 D:/HWs/DSD/HW1/johnson_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z17 IJBYR5CmbM9MNj@L0oHc2G2
+Z18 VckK8:He1jgl3Kb^_Z5B_m0
+R10
+Z19 w1711744310
+Z20 8D:/HWs/DSD/HW1/multiplier.v
+Z21 FD:/HWs/DSD/HW1/multiplier.v
+L0 4
+R4
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/multiplier.v|
+R6
+Z23 !s100 [f^O^WF3LWLzUW:[bnCUR1
+Z24 !s108 1711744700.823000
+Z25 !s107 D:/HWs/DSD/HW1/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSRFF
+Z26 !s100 M6B5^Bk;0Uk]DS4P0_I?Q1
+Z27 IRJUz8RMTj6MIGV<2CM0]P3
+Z28 VR[X7_75:d3hTF^g^A0aCK1
+R10
+Z29 w1710968718
+Z30 8D:/HWs/DSD/HW1/SRFF.v
+Z31 FD:/HWs/DSD/HW1/SRFF.v
+L0 1
+R4
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/SRFF.v|
+R6
+Z33 n@s@r@f@f
+Z34 !s108 1711761827.253000
+Z35 !s107 D:/HWs/DSD/HW1/SRFF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z36 !s100 XC^O^Y0UV[A2Fe;aOGejY1
+Z37 IAW2X2[T`DZ4eN_l8KM=XJ2
+Z38 Vc<=32996OT2f`M7E_UhYX1
+R10
+Z39 w1711761321
+Z40 8D:/HWs/DSD/HW1/TB_johnson_counter.v
+Z41 FD:/HWs/DSD/HW1/TB_johnson_counter.v
+L0 1
+R4
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/TB_johnson_counter.v|
+R6
+n@t@b
+Z43 !s108 1711761827.328000
+Z44 !s107 D:/HWs/DSD/HW1/TB_johnson_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_encoder
+Z45 IL_VEX<M9_8z;Ez[dokLLX3
+Z46 V<ZOb_KzZDgRk<Ba?YTjz?3
+R1
+Z47 w1712683924
+Z48 8D:/HWs/DSD/HW1/TB_encoder.v
+Z49 FD:/HWs/DSD/HW1/TB_encoder.v
+L0 1
+R4
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/TB_encoder.v|
+R6
+Z51 n@t@b_encoder
+!i10b 1
+Z52 !s100 PhlEh>AM=j^ceeSB04na`2
+!s85 0
+Z53 !s108 1712683929.077000
+Z54 !s107 D:/HWs/DSD/HW1/TB_encoder.v|
+!s101 -O0
+vTB_multiplier
+Z55 I38?RmY`ICK7le_a=g=QNn0
+Z56 VlKAkT1@dTKhTGi5Dgb]R[3
+R10
+Z57 w1711744690
+Z58 8D:/HWs/DSD/HW1/TB_multiplier.v
+Z59 FD:/HWs/DSD/HW1/TB_multiplier.v
+L0 1
+R4
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/HW1/TB_multiplier.v|
+R6
+Z61 n@t@b_multiplier
+Z62 !s100 4SJh5ld2eBBT?R37U4E>`2
+Z63 !s108 1711744700.912000
+Z64 !s107 D:/HWs/DSD/HW1/TB_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0

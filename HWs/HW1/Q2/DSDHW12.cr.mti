@@ -1,0 +1,15 @@
+D:/HWs/DSD/HW1/TB_encoder.v {1 {vlog -work work D:/HWs/DSD/HW1/TB_encoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_encoder
+
+Top level modules:
+	TB_encoder
+
+} {} {}} D:/HWs/DSD/HW1/encoder_8to3.v {1 {vlog -work work D:/HWs/DSD/HW1/encoder_8to3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module encoder_8to3
+
+Top level modules:
+	encoder_8to3
+
+} {} {}}

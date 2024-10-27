@@ -1,0 +1,36 @@
+{C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/tri_state_buffer.v} {1 {vlog -work work {C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\tri_state_buffer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tri_state_buffer
+
+Top level modules:
+	tri_state_buffer
+
+} {} {}} {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v} {1 {vlog -work work {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_gatelevel.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inoutPin_gatelevel
+
+Top level modules:
+	inoutPin_gatelevel
+
+} {} {}} {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/buffer_TB.v} {1 {vlog -work work {C:\Users\Notebook\Desktop\current term resources\digital systtem design\HWs\HW2\buffer_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module buffer_TB
+
+Top level modules:
+	buffer_TB
+
+} {} {}} {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v} {1 {vlog -work work {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inoutPin_TB
+
+Top level modules:
+	inoutPin_TB
+
+} {} {}} {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v} {1 {vlog -work work {C:/Users/Notebook/Desktop/current term resources/digital systtem design/HWs/HW2/inoutPin_Dataflow.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inoutPin_Dataflow
+
+Top level modules:
+	inoutPin_Dataflow
+
+} {} {}}

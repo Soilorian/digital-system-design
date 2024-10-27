@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\HWs\DSD\HW4
+vALU
+Z1 !s100 oaPYGIcYJ5BXmbim0fZPF2
+Z2 IlPV>`Kd0If5d_5?SOi6@T1
+Z3 V=LDMB;?0A6;@NoEUNbPJd3
+Z4 dD:\HWs\DSD\cpu
+Z5 w1719357500
+Z6 8D:/HWs/DSD/cpu/ALU.v
+Z7 FD:/HWs/DSD/cpu/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/cpu/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1719357768.228000
+Z13 !s107 D:/HWs/DSD/cpu/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU
+Z14 Ie[1NJ80]kTbZXK5V35UV^2
+Z15 VDSUjXBJUhCf9?6jjKY^YO1
+R4
+Z16 w1719357761
+Z17 8D:/HWs/DSD/cpu/CPU.v
+Z18 FD:/HWs/DSD/cpu/CPU.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/cpu/CPU.v|
+R10
+Z20 n@c@p@u
+Z21 !s100 4P=FFbAU;HYcklM8G6>X82
+Z22 !s108 1719357768.344000
+Z23 !s107 D:/HWs/DSD/cpu/CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_tb
+Z24 Io:cC9DXYTC2FidHZGRlZ>3
+Z25 VJ]cozc2R4cz?MTJoP]UO70
+R4
+Z26 w1719357738
+Z27 8D:/HWs/DSD/cpu/CPU_tb.v
+Z28 FD:/HWs/DSD/cpu/CPU_tb.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/cpu/CPU_tb.v|
+R10
+Z30 n@c@p@u_tb
+Z31 !s100 c@N9MZN;PLg0Yg<Bm0N?U0
+Z32 !s108 1719357768.471000
+Z33 !s107 D:/HWs/DSD/cpu/CPU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory_Unit
+Z34 !s100 YzNBXA3oIBkNGEEjP`hfW3
+Z35 IPa6C2IbiOOoL8OIQ@F7oJ3
+Z36 Vb[m:fFoz248;=6lfc7ZQd1
+R4
+Z37 w1719356809
+Z38 8D:/HWs/DSD/cpu/Memory_Unit.v
+Z39 FD:/HWs/DSD/cpu/Memory_Unit.v
+L0 36
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/cpu/Memory_Unit.v|
+R10
+Z41 n@memory_@unit
+!i10b 1
+!s85 0
+Z42 !s108 1719357768.553000
+Z43 !s107 D:/HWs/DSD/cpu/Memory_Unit.v|
+!s101 -O0
+vRegister_file
+!i10b 1
+Z44 !s100 :f<zolFOX[LQ2oV0h<Y511
+Z45 I9RZPVc[EF7IfAX3jnekV<0
+Z46 V3B>`;2OAHQe4n9;QN5S1H0
+R4
+Z47 w1719357703
+Z48 8D:/HWs/DSD/cpu/Register_file.v
+Z49 FD:/HWs/DSD/cpu/Register_file.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719357768.653000
+!s107 D:/HWs/DSD/cpu/Register_file.v|
+Z50 !s90 -reportprogress|300|-work|work|D:/HWs/DSD/cpu/Register_file.v|
+!s101 -O0
+R10
+Z51 n@register_file

@@ -1,0 +1,15 @@
+D:/HWs/DSD/HW1/multiplier.v {1 {vlog -work work D:/HWs/DSD/HW1/multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} D:/HWs/DSD/HW1/TB_multiplier.v {1 {vlog -work work D:/HWs/DSD/HW1/TB_multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_multiplier
+
+Top level modules:
+	TB_multiplier
+
+} {} {}}
